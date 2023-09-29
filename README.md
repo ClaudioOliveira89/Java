@@ -3,24 +3,6 @@
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJIDEA-8407ad.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-
-
-
-
-# Java
-
-### Repository for Java Data Analysis Development.
-
-This repository has been created for Java development and programming, with a focus on data analysis. It provides support for data manipulation, processing, and visualization from various sources and formats. 
-Key features include: 
-Main Features.
-
-- **Data Analysis Libraries: This repository includes popular data analysis libraries in Java, such as Apache Spark, Apache Flink, and others, to assist in distributed processing and analysis of large datasets.**
-- **Database Connectivity: Support for connecting to SQL and NoSQL databases, enabling data extraction and transformation directly from data sources.**
-- **Data Visualization: Resources for data visualization, including libraries like JFreeChart and Jupyter to create interactive charts and reports.**
-- **Parallel Processing: The ability to perform data analysis operations in parallel to enhance performance.**
-- **Integration with Data Science Tools: Integration with popular data science tools such as Jupyter Notebook and pandas to streamline the data analysis workflow.**
- 
 ### Repositório de Desenvolvimento em Java para Análise de Dados.
 
 Este repositório foi criado para desenvolvimento e programação em Java, com ênfase na análise de dados. Ele oferece suporte para manipulação, processamento e visualização de dados em várias fontes e formatos. 
