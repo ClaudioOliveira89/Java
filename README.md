@@ -15,4 +15,4 @@ Principais Recursos.
 - **Processamento Paralelo: Capacidade de realizar operações de análise de dados em paralelo para melhorar o desempenho.**
 - **Integração com Ferramentas de Ciência de Dados: Integração com ferramentas populares de ciência de dados, como Jupyter Notebook e pandas, para facilitar o fluxo de trabalho de análise de dados.**
 
-![Python_imagemgit](https://github.com/ClaudioOliveira89/Python/assets/87618859/932b63e1-4934-4985-a882-4794d9360843)
+![](https://user-images.githubusercontent.com/87618859/270220027-abe1f95f-e228-4981-a545-e4e56b851558.jpg)
