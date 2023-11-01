@@ -1,4 +1,4 @@
-### Repositório de Desenvolvimento em Java.
+### Repositório de Desenvolvimento em linguagem Java.
 ![Java](https://img.shields.io/badge/java-0707ad.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-44949d.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJIDEA-8407ad.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
