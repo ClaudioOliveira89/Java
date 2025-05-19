@@ -1,11 +1,17 @@
 ## Repository created for programming and development in the java language.
-![Java](https://img.shields.io/badge/java-0033CC.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-009999.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![IntelliJ IDE](https://img.shields.io/badge/IntelliJIDEA-006699.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=25fafe)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-black?style=for-the-badge&logo=apache-netbeans-ide&logoColor=25fafe)
+![IntelliJ IDE](https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=25fafe)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=25fafe)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=25fafe)
+![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge&logo=javafx&logoColor=25fafe)
 
-This repository was built to improve my skills in Java, with the aim of exploring the fundamentals of the language, its data structures, object orientation and its practical applications in the creation of robust applications, from web applications to scalable and mobile systems.
-
-![](https://private-user-images.githubusercontent.com/87618859/365837553-208180ae-4e42-481e-9538-4b55ee72ba8f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5MjMwMTAsIm5iZiI6MTcyNTkyMjcxMCwicGF0aCI6Ii84NzYxODg1OS8zNjU4Mzc1NTMtMjA4MTgwYWUtNGU0Mi00ODFlLTk1MzgtNGI1NWVlNzJiYThmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA5VDIyNTgzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwNTQxZTAyOWMxMjVhMTdhYWEyNTQ4ZWNmYmY4NjQwZWM5YTI3YTgyM2FjN2FmMzZjZjk3ZDQyNzk1Y2U3M2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5dRz2_7hIfxjBhRUQRJ8Dc13cVUPEtStogW96XTKQcY)
-
-Este repositório foi construído para aprimorar minhas habilidades em Java, com objetivos de explora os fundamentos da linguagem, suas estruturas de dados, orientação a objetos e suas aplicações práticas na criação de aplicativos robustos, desde aplicações web até sistemas escaláveis e móveis.
+This repository was created for academic purposes to document my learning journey with the Java programming language — a robust, object-oriented language widely used in enterprise applications, Android development, web systems, and distributed solutions.
+The main goal is to gradually explore the Java ecosystem, starting from language fundamentals to more advanced topics such as collections, exception handling, concurrent programming, JavaFX, Spring Framework, and cross-platform application development.
+This space will serve as a base for notes, practical exercises, experiments, and small projects, focusing on consolidating knowledge applicable in academic, professional, and software development contexts.
+<br>
+<br>
+<br/>
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado da linguagem Java, uma linguagem robusta, orientada a objetos e amplamente utilizada no desenvolvimento de aplicações corporativas, aplicativos Android, sistemas web e soluções distribuídas.
+O objetivo principal é explorar gradualmente o ecossistema do Java, partindo dos fundamentos da linguagem até conceitos mais avançados, como coleções, tratamento de exceções, programação concorrente, JavaFX, Spring Framework, e o desenvolvimento de aplicações em diversas plataformas.
+Este espaço servirá como base para anotações, exercícios práticos, experimentos e pequenos projetos, com foco em consolidar conhecimentos aplicáveis em contextos acadêmicos, profissionais e de desenvolvimento de software.
