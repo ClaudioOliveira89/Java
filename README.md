@@ -4,6 +4,7 @@
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=25fafe)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=25fafe)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=25fafe)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=25fafe)
 ![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge&logo=javafx&logoColor=25fafe)
 
 This repository was created for academic purposes to document my learning journey with the Java programming language — a robust, object-oriented language widely used in enterprise applications, Android development, web systems, and distributed solutions.
